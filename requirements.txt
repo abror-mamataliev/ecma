@@ -1,0 +1,5 @@
+django
+fiona
+pip-chill
+psycopg2
+python-decouple
