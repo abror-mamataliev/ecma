@@ -93,5 +93,5 @@ STATICFILES_DIRS = [
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-GDAL_LIBRARY_PATH = "C:/OSGeo4W/bin/gdal304"
-GEOS_LIBRARY_PATH = "C:/OSGeo4W/bin/geos_c"
+# GDAL_LIBRARY_PATH = "C:/OSGeo4W/bin/gdal304"
+# GEOS_LIBRARY_PATH = "C:/OSGeo4W/bin/geos_c"
